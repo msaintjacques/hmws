@@ -1,4 +1,3 @@
-def int_func(string):
-    return string.capitalize()
+int_func = lambda: print(input("Введите строку: ").capitalize())
 
-print(int_func(input("Введите строку: ")))
+int_func()
