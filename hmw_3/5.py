@@ -12,7 +12,7 @@ while exit != True:
             break
 
         sum += float(i)
-    print(f"Сечас сумма чисел равна: {sum}")
+    print(f"Сейчас сумма чисел равна: {sum}")
 
 print(f"Результат: {sum}")
 
